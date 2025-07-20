@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Card from '../components/common/Card'
 import Button from '../components/common/Button'
-import { PLACEHOLDER_IMAGE } from '../contrast'
+import { PLACEHOLDER_IMAGE } from '../constants'
 
 export default function Home() {
   return (
